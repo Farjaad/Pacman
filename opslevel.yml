@@ -1,0 +1,19 @@
+---
+version: 1
+service:
+  name: Registration test
+  lifecycle:
+  tier: tier_2
+  product:
+  owner:
+  language:
+  framework:
+  description: qqqq
+  aliases:
+  - registration
+  - registration_test
+  tags:
+  repositories:
+  tools:
+  dependencies:
+  - alias: notifications
