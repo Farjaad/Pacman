@@ -8,7 +8,7 @@ service:
   owner:
   language:
   framework:
-  description: qqqq
+  description: abc
   aliases:
   - registration
   - registration_test
